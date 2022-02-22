@@ -1,0 +1,30 @@
+.container {
+    background:lightblue;
+    padding-top: 50px;
+   width: 50%;
+   float: right;
+}
+
+.color-bg {
+    height: 100vh;
+    width: 50%;
+    float: right;
+}
+
+
+.container .login_form input[type="email"],  .container .login_form input[type="password"], .container .login_form input[type="text"] {
+    width: 40%;
+    margin-bottom: 15px;
+}
+
+
+.message {
+    width: 100%;
+    background-color: red;
+}
+
+
+
+
+
+
